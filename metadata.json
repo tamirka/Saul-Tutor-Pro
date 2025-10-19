@@ -1,0 +1,7 @@
+{
+  "name": "AI Tutor Pro",
+  "description": "An interactive AI Tutor that provides a personalized learning experience through voice and text conversations. It helps students with explanations, exercises, quizzes, and feedback across various subjects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
